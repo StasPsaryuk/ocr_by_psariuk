@@ -11,5 +11,5 @@ def get_image(filename:str):
     cv2.imwrite('tmp/'+filename, gray)
     tmp_image = Image.open('tmp/'+filename)
     tmp_image = tmp_image.crop(tmp_image.getbbox())
-    # tmp_image.save('tmp/321.png')
+    tmp_image.save('tmp/321.png')
     return tmp_image

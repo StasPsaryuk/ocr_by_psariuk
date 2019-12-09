@@ -3,7 +3,8 @@
 import pytesseract
 import re
 
-# Функція розпізнавання тексту засобами Тесеракт та фільтрація тексту за ключовими словами (Номера маклерів)
+# Функція розпізнавання тексту засобами Тесеракт та фільтрація
+# тексту за ключовими словами (Номера маклерів)
 def get_text(image, lang):
     text = pytesseract.image_to_string(image, lang)
     text__list = text.split('\n')
