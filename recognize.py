@@ -2,7 +2,7 @@
 # Імпорт модулів необхідних для розпізнавання
 import pytesseract
 import re
-
+pytesseract.pytesseract.tesseract_cmd = './Tesseract-OCR'
 # Функція розпізнавання тексту засобами Тесеракт та фільтрація
 # тексту за ключовими словами (Номера маклерів)
 def get_text(image, lang):
