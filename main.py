@@ -2,7 +2,7 @@
 # Імпорт бібліотек
 import telebot
 import pytesseract
-pytesseract.pytesseract.tesseract_cmd = './Tesseract-OCR'
+
 try:
     from PIL import Image
 except ImportError:

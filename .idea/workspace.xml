@@ -2,7 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="dbc6b522-2a50-4681-8406-e2a5728b4a10" name="Default Changelist" comment="add tesseract">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/recognize.py" beforeDir="false" afterPath="$PROJECT_DIR$/recognize.py" afterDir="false" />
     </list>
@@ -17,11 +16,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/main.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="68">
-              <caret line="4" selection-start-line="4" selection-end-line="4" selection-end-column="57" />
+              <caret line="4" selection-start-line="4" selection-end-line="4" />
               <folding>
                 <element signature="e#46#60#0" expanded="true" />
               </folding>
@@ -71,11 +70,11 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/recognize.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="68">
-              <caret line="4" column="57" selection-start-line="4" selection-start-column="57" selection-end-line="4" selection-end-column="57" />
+              <caret line="4" lean-forward="true" selection-start-line="4" selection-end-line="4" />
               <folding>
                 <element signature="e#73#91#0" expanded="true" />
               </folding>
@@ -172,6 +171,17 @@
             <path>
               <item name="ocr_by_psariuk" type="b2602c69:ProjectViewProjectNode" />
               <item name="ocr_by_psariuk" type="462c0819:PsiDirectoryNode" />
+              <item name="tesseract-ocr" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ocr_by_psariuk" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ocr_by_psariuk" type="462c0819:PsiDirectoryNode" />
+              <item name="tesseract-ocr" type="462c0819:PsiDirectoryNode" />
+              <item name="tessdata" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ocr_by_psariuk" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ocr_by_psariuk" type="462c0819:PsiDirectoryNode" />
               <item name="tmp" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
@@ -255,7 +265,7 @@
       <workItem from="1575882805366" duration="640000" />
       <workItem from="1575901183893" duration="1835000" />
       <workItem from="1576230915794" duration="13000" />
-      <workItem from="1576429914963" duration="4240000" />
+      <workItem from="1576429914963" duration="4698000" />
     </task>
     <task id="LOCAL-00001" summary="add procfile">
       <created>1575901391898</created>
@@ -282,7 +292,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="112749000" />
+    <option name="totallyTimeSpent" value="113207000" />
   </component>
   <component name="TodoView" selected-index="2">
     <todo-panel id="selected-file">
@@ -480,22 +490,22 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/recognize.py">
+    <entry file="file://$PROJECT_DIR$/main.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="68">
-          <caret line="4" column="57" selection-start-line="4" selection-start-column="57" selection-end-line="4" selection-end-column="57" />
+          <caret line="4" selection-start-line="4" selection-end-line="4" />
           <folding>
-            <element signature="e#73#91#0" expanded="true" />
+            <element signature="e#46#60#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/main.py">
+    <entry file="file://$PROJECT_DIR$/recognize.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="68">
-          <caret line="4" selection-start-line="4" selection-end-line="4" selection-end-column="57" />
+          <caret line="4" lean-forward="true" selection-start-line="4" selection-end-line="4" />
           <folding>
-            <element signature="e#46#60#0" expanded="true" />
+            <element signature="e#73#91#0" expanded="true" />
           </folding>
         </state>
       </provider>
