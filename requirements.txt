@@ -4,7 +4,7 @@ chardet==3.0.4
 idna==2.8
 numpy==1.17.4
 opencv-python==4.1.2.30
-opencv-python-headless==4.1.2.30
+opencv-python-headless==4.2.0.32
 Pillow==6.2.1
 pyTelegramBotAPI==3.6.6
 pytesseract==0.3.0
